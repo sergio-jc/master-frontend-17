@@ -10,19 +10,20 @@ This repository is designed to showcase the solutions for the exercises assigned
 ### 🛠️ Technologies Covered
 
 The exercises include work with:
-	•	HTML5 & CSS3
-	•	JavaScript (ES6+)
-	•	React.js
-	•	Redux
-	•	TypeScript
-	•	Responsive Design
-	•	Unit and Integration Testing
-	•	Webpack and Build Tools
+-	HTML5 & CSS3
+-	JavaScript (ES6+)
+-	React.js
+-	Redux
+-	TypeScript
+-	Responsive Design
+-	Unit and Integration Testing
+-	Webpack and Build Tools
 
 ### 📂 Repository Structure
 
 The repository is organized by module and exercise:
 
+```
 frontend-master-exercises/
 │
 ├── module-1/
@@ -36,6 +37,7 @@ frontend-master-exercises/
 │   └── ...
 │
 └── README.md
+```
 
 Each module corresponds to a specific topic covered in the master program, and each subfolder contains:
 	•	A brief description of the exercise.
@@ -44,24 +46,24 @@ Each module corresponds to a specific topic covered in the master program, and e
 
 ### 🚀 How to Run the Solutions
 
-	1.	Clone the repository:
+1.	Clone the repository:
 
 git clone https://github.com/your-username/frontend-master-exercises.git
 
 
-	2.	Navigate to the desired exercise directory:
+2.	Navigate to the desired exercise directory:
 
-cd module-1/exercise-1
-
-
-	3.	Install dependencies (if applicable):
-
-npm install
+```cd module-1/exercise-1```
 
 
-	4.	Run the project:
+3.	Install dependencies (if applicable):
 
-npm start
+```npm install```
+
+
+4.	Run the project:
+
+```npm start```
 
 
 
