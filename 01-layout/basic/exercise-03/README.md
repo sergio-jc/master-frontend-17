@@ -2,7 +2,7 @@
 ![exercise-03](assets/cover.png)
 
 ### 🎯 Objective
-Create a responsive navigation that works on mobile and desktop.
+Create a responsive navigation that works on mobile and desktop with flexbox and media queries.
 
 ### 🏠 Technologies
 Languages used:
