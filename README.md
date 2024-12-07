@@ -1,23 +1,35 @@
 
 ## Frontend Development Master - Exercise Solutions
+![image](https://github.com/user-attachments/assets/542471c4-80c4-4760-9ea1-f14442773d24)
 
-Welcome to the repository of exercise solutions for the Frontend Development Master at LemonCode, completed by Ronaldo ‘Sergio’ Jara. This repository contains solutions and practices related to various frontend development topics and technologies.
+
+Welcome to the repository of exercise solutions for the Frontend Development Master at LemonCode, completed by [@sergio-jc](https://github.com/sergio-jc). This repository contains solutions and practices related to various frontend development topics and technologies.
 
 ### 📚 Overview
 
-This repository is designed to showcase the solutions for the exercises assigned during the Frontend Development Master program. Each solution demonstrates practical applications of modern web development concepts, with a focus on enhancing problem-solving skills and mastering industry-relevant tools.
+This repository is designed to showcase the solutions for the exercises assigned during the Frontend Development Master program. Each solution demonstrates practical applications of modern web development concepts, with focus on enhancing problem-solving skills and mastering industry-relevant tools.
 
-### 🛠️ Technologies Covered
+### 🛠️ Technologies and Skills Covered
 
 The exercises include work with:
 -	HTML5 & CSS3
+-	SASS
+-	TailwindCSS
 -	JavaScript (ES6+)
--	React.js
--	Redux
 -	TypeScript
+-	React.js
+-	React Native
+-	Angular
+-	Vue
+-	Svelte
+-	Astro
+-	Lit
+-	Redux
 -	Responsive Design
 -	Unit and Integration Testing
 -	Webpack and Build Tools
+-	Accesibility
+-	Desing UX/UI
 
 ### 📂 Repository Structure
 
@@ -46,24 +58,17 @@ Each module corresponds to a specific topic covered in the master program, and e
 
 ### 🚀 How to Run the Solutions
 
-1.	Clone the repository:
+1. Clone the repository:
+```bash 
+git clone https://github.com/sergio-jc/master-frontend.git
+```
 
-git clone https://github.com/your-username/frontend-master-exercises.git
+2. Navigate to the desired exercise directory, for example:
+```bash 
+cd module-1/exercise-1
+```
 
-
-2.	Navigate to the desired exercise directory:
-
-```cd module-1/exercise-1```
-
-
-3.	Install dependencies (if applicable):
-
-```npm install```
-
-
-4.	Run the project:
-
-```npm start```
+3. Read exercise's README.md file for more instructions.
 
 
 
@@ -71,10 +76,9 @@ git clone https://github.com/your-username/frontend-master-exercises.git
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the solutions or add alternative approaches.
 
-### 📄 License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+### 📄 Author & License
+Solutions by [@sergio-jc](https://github.com/sergio-jc), exercises from [Lemoncode](https://lemoncode.net/). See the [LICENSE](https://github.com/sergio-jc/master-frontend/blob/main/LICENSE) file for more details.
 
 ### 🙏 Acknowledgements
 
-Thanks to LemonCode for providing an excellent master program that has enriched my knowledge and skills in frontend development.
+Thanks to [LemonCode](https://lemoncode.net/) for providing an excellent master program that has enriched my knowledge and skills in frontend development.
