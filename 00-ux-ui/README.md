@@ -14,11 +14,9 @@ This lab is divided into three distinct parts:
     - Develop a high-fidelity redesign based on identified improvements.
     - Use Figma as the main tool, leveraging its features such as variables, components, and more.
 
-![cover](cover.png)
+[![cover](cover.png)](https://www.figma.com/file/kNGLHhfRH5E3IynmdL6TXQ/LemonCode---UX-module?node-id=1-3&t=TnZjF7bssEAkVhcm-1)
 
-You can view the project prototypes and designs via the embedded Figma link below:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/kNGLHhfRH5E3IynmdL6TXQ/LemonCode---UX-module?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+You can view the project and designs [here on Figma](https://www.figma.com/design/kNGLHhfRH5E3IynmdL6TXQ/LemonCode---UX-module?node-id=1-3&t=TnZjF7bssEAkVhcm-1).
 
 ### 📝 Author & License
 Solution by [@sergio-jc](https://github.com/sergio-jc), exercise from [Lemoncode](https://lemoncode.net/). See the [LICENSE](https://github.com/sergio-jc/master-frontend/blob/main/LICENSE) file for more details.
