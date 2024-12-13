@@ -1,4 +1,4 @@
-## Exercise 01 - Make a color palette
+## Exercise 01 - Create a movie app
 ![exercise-01](assets/cover.png)
 
 ### 🎯 Objective
